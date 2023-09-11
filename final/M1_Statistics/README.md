@@ -1,23 +1,10 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Entregable Módulo 1: Estadística
+En esta carpeta, se encuentran dos archivos referentes a la entrega de este módulo para el portafolio de Análisis previo a retroalimentación. Los documentos son los siguientes: 
 
-## Files for revision
-This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
+ * **Notebook: Precio de los autos** Revisar documento [**Portafolio_Estadistica.ipynb**](https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M1_Statistics/Portafolio_Estadistica.ipynb)
+ *  * **Reporte: Precio de los autos** Revisar documento [**FALTA**](FALTA)
 
- * **Evidence 01: Modeling ** Please review file **Ev_01/dummyFile.txt**
- 
-## Requested changes and replies
-Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
+A continuación se especifican los cambios pedidos en la retroalimentación del entregable y cómo fueron cumplidos: 
 
-### Issue 01: You are still missing some tests
-We added some more testing varying the hyper-parameters in the following ranges: 
-* Theta: We used values 0.01, 0.001, and 0.005
-* ...
-
-These changes can be observerd in the following files: 
-* ...
-
-### Issue 02: ...
-...
-
+* **1** **_Cambiar la normalización de todas las variables cuantitativas a solo la variable dependiente:_** En la sección de normalización, se deja comentado el proceso anterior donde se normalizó a todas las variables cuantitativas a través de Yeo-Johnson; no obstante, solamente se normaliza la variable "price" con la cual se completa el resto del entregable. Esto se observa en los dos archivos presentes en esta carpeta.
 
