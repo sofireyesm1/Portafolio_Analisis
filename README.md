@@ -1,37 +1,23 @@
-# Demo repo for the TC3006 course
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the *implementation portfolio* deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors. 
+# Portafolio de Análisis
+Este portafolio contiene todos los entregables correspondientes al rubro de "Análisis" para la clase Inteligencia Artificial Avanzada 1 (TC3006). Toda la información se encuentra dividida en dos carpetas: Retro y Final. En esta última es donde se encuentran todos los archivos a revisar para la evaluación de subcompetencias de esta unidad de formación.
 
-## Structure of this repository
-The root folder of this repository contains the following files and folders: 
+## Estructura del repositorio
+La carpeta raíz contiene los siguientes archivos:
 
-* **Files**
-  * README.md: This file  
-* **Folders**
-  * final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  * retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
+* **Documentos**
+  * README.md: Este archivo.
+* **Carpetas**
+  * final: Carpeta con la información y entregables finales para la evaluación de subcompetencias. Se incluye la retroalimentación dada en los borradores y cómo esta fue cumplida.
+  * retro: Carpeta con los borradores de los entregables previos a la retroalimentación.
 
-## Files for revision
-Following is a list of the files that must be checked for grading each subcompetency: 
+## Documentos a revisión y cambios requeridos
+A continuación se encuentran las carpetas con los cambios requeridos y los documentos que deben calificarse para cada una de las subcompetencias:
 
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
-
-
-## Requested changes and replies
-Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
-
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
-		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
-		
-
-See you!
+* *Modulo 1: Estadística*
+	* *SMA0102*
+		* **Evidencia 1: Análisis** Revisar carpeta [**Portafolio_Analisis/final/M1_Statistics/**](https://github.com/sofireyesm1/Portafolio_Analisis/tree/main/final/M1_Statistics)
+* *Modulo 2: Machine Learning*
+	* *SMA0104*
+		* **Evidencia 1: Normativa de los datos** Revisar carpeta [**Portafolio_Analisis/final/M2_ML/Ev_01/**](https://github.com/sofireyesm1/Portafolio_Analisis/tree/main/final/M2_ML/Ev_01)
+		* **Evidencia 2: Análisis y reporte sobre el desempeño del modelo** Revisar carpeta [**Portafolio_Analisis/final/M2_ML/Ev_02/**
+](https://github.com/sofireyesm1/Portafolio_Analisis/tree/main/final/M2_ML/Ev_02)
