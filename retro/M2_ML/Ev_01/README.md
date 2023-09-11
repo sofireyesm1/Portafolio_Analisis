@@ -1,4 +1,2 @@
-# Demo file for inner file HIII
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
-
-This folder contains the files related to a single deliverable. 
+# Normativa de los datos utilizados
+Esta carpeta contiene el archivo con la normativa de la base de Datos utilizada a lo largo de las actividades del Portafolio de Implementación del Módulo 2. El nombre de este archivo es: **A00831314_Normativa**
