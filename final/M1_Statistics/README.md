@@ -7,4 +7,4 @@ En esta carpeta, se encuentran dos archivos referentes a la entrega de este mód
 A continuación se especifican los cambios pedidos en la retroalimentación del entregable y cómo fueron cumplidos: 
 
 * **1** **_Cambiar la normalización de todas las variables cuantitativas a solo la variable dependiente:_** En la sección de normalización, se deja comentado el proceso anterior donde se normalizó a todas las variables cuantitativas a través de Yeo-Johnson; no obstante, solamente se normaliza la variable "price" con la cual se completa el resto del entregable. Esto se observa en los dos archivos presentes en esta carpeta.
-
+* **2** **_Agregar los supuestos fundamentales de la regresión lineal_:** Al final del documento se agregan los 4 supuestos, así como en el reporte en pdf.
