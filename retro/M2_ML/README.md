@@ -7,6 +7,8 @@ Los documentos a evaluar son los siguientes:
 A00831314_Normativa.pdf**](https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M2_ML/Ev_01/A00831314_Normativa.pdf)
  * **Evidencia 2: ML from a framework** Revisar el documento [**A00831314_T2_T3_ML.ipynb**](https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M2_ML/Ev_02/A00831314_T2_T3_ML.ipynb) Solamente la parte señalada como PARTE 2
 
+Ambos entregables están basados en la siguiente base de datos:
+
 # Base de datos
 
 *Nombre:* California Housing prices, basado en los precios de las casas en California en 1990
