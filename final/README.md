@@ -1,4 +1,5 @@
-# Demo file for the folder with the final version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Entregables previos a Retroalimentación
+Dentro de esta carpeta, se encuentra 1 documento (este README) y dos carpetas. Dichas carpetas contienen los 3 entregables del portafolio de análisis en la etapa **posterior** a retroalimentación. Las carpetas son las siguientes:
 
-This folder contains the final files that must be graded for each deliverable. The folder is organized into subfolders, one for each deliverable.
+* **M1_Statistics:** Contiene dos documentos (El notebook y reporte final) sobre el proyecto _Precio de los carros_
+* **M2_ML:** Contiene dos carpetas, una para cada entregable de este módulo del portafolio de análisis; Normativa de datos, y Análisis de desempeño. Además contiene la base de datos utilizada para ambos entregables.
