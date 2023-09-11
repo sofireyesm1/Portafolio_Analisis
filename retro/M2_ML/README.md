@@ -1,7 +1,8 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Portafolio de Análisis - Módulo 2: Machine Learning
+En esta Carpeta, se encuentra 1 archivo (Este README) y 2 carpetas, cada una referente a los dos entregables de este módulo para el portafolio de análisis previo a la retroalimentación.
 
-This folder contains the files related to the deliverables from the Machine Learning module. The following files are to be graded: 
+Los documentos a evaluar son los siguientes: 
 
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
+ * **Evidencia 1: Normativa de los datos** Revisar el documento (**Ev_01/
+A00831314_Normativa.pdf**)[https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M2_ML/Ev_01/A00831314_Normativa.pdf]
  * **Evidence 02: ML from a framework** Please review file **Ev_02/dummyFolder/dummyFile.txt**
