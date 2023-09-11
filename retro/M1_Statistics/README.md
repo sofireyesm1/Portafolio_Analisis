@@ -1,6 +1,5 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Entregable Módulo 1: Estadística
+En esta carpeta, se encuentran dos archivos referentes a la entrega de este módulo para el portafolio de Análisis previo a retroalimentación. Los documentos son los siguientes: 
 
-This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
-
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
+ * **Notebook: Precio de los autos** Revisar documento [**Portafolio_Estadistica.ipynb**](https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M1_Statistics/Portafolio_Estadistica.ipynb)
+ *  * **Reporte: Precio de los autos** Revisar documento [**FALTA**](FALTA)
