@@ -3,6 +3,6 @@ En esta Carpeta, se encuentra 1 archivo (Este README) y 2 carpetas, cada una ref
 
 Los documentos a evaluar son los siguientes: 
 
- * **Evidencia 1: Normativa de los datos** Revisar el documento (**Ev_01/
-A00831314_Normativa.pdf**)[https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M2_ML/Ev_01/A00831314_Normativa.pdf]
- * **Evidence 02: ML from a framework** Please review file **Ev_02/dummyFolder/dummyFile.txt**
+ * **Evidencia 1: Normativa de los datos** Revisar el documento [**Ev_01/
+A00831314_Normativa.pdf**](https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M2_ML/Ev_01/A00831314_Normativa.pdf)
+ * **Evidencia 2: ML from a framework** Revisar el documento [**A00831314_T2_T3_ML.ipynb**] (https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M2_ML/Ev_02/A00831314_T2_T3_ML.ipynb) Solamente la parte señalada como PARTE 2
