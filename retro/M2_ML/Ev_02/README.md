@@ -1,4 +1,3 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Análisis y Reporte sobre el desempeño del modelo
 
-This folder contains the files related to a single deliverable. 
+Esta carpeta incluye el archivo sobre el Entregable "Análisis y Reporte sobre el desempeño del modelo" previo a la retroalimentación. Dicho archivo contiene 2 partes señaladas en negrita, siendo la **PARTE 2** la referente a esta entrega.
