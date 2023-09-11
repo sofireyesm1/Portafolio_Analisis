@@ -1,5 +1,5 @@
 # Portafolio de Análisis - Módulo 2: Machine Learning
-En esta Carpeta, se encuentra 1 archivo (Este README) y 2 carpetas, cada una referente a los dos entregables de este módulo para el portafolio de análisis posterior a la retroalimentación.
+En esta Carpeta, se encuentra 2 archivos (Este README y la base de datos utilizada para los dos entregables) y 2 carpetas, cada una referente a los dos entregables de este módulo para el portafolio de análisis posterior a la retroalimentación.
 
 Los documentos a evaluar son los siguientes: 
 
